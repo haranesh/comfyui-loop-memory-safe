@@ -1,0 +1,2 @@
+# No additional dependencies required
+# This plugin uses torch and comfy modules which are bundled with ComfyUI
